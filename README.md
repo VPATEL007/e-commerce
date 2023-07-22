@@ -16,19 +16,11 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 
 
-![1](https://github.com/VPATEL007/e-commerce/assets/92792941/f6414c9e-32a9-4b7c-8170-860dcf41a7c2) ![2](https://github.com/VPATEL007/e-commerce/assets/92792941/149255c9-083a-4a94-bb29-44d7dd41128f)
 
-
-![3](https://github.com/VPATEL007/e-commerce/assets/92792941/807fa586-38eb-4fa5-bc93-7293cdf7ac5f)
-
-![5](https://github.com/VPATEL007/e-commerce/assets/92792941/98a4f00d-05e6-45c2-a9ff-7ef6cc5191f3)
-
-![6](https://github.com/VPATEL007/e-commerce/assets/92792941/4321275d-fbb0-4d7f-b192-916fc7ec3f65)
-
-![7](https://github.com/VPATEL007/e-commerce/assets/92792941/77d12bb5-2378-4527-91ed-845f4fed9fd1)
-
-![2](https://github.com/VPATEL007/e-commerce/assets/92792941/9684b973-8e44-47ff-a401-d4a2d57c0602)
-
-
-![8](https://github.com/VPATEL007/e-commerce/assets/92792941/7da05321-2dac-43a9-b420-ee958224e037)
-
+![1](https://github.com/VPATEL007/e-commerce/assets/92792941/75c6adf9-3565-41f0-8328-36a3feaf8439)
+![2](https://github.com/VPATEL007/e-commerce/assets/92792941/e5560573-2c07-42a0-8d6b-12f82554f1b3)
+![3](https://github.com/VPATEL007/e-commerce/assets/92792941/bec3282c-519c-452a-8ce1-80e214f3a6ea)
+![5](https://github.com/VPATEL007/e-commerce/assets/92792941/53ee0086-13e5-4dce-8ec5-8e70f0bb4088)
+![6](https://github.com/VPATEL007/e-commerce/assets/92792941/f1b8d056-4f3b-4db0-810b-c49732cf5f93)
+![7](https://github.com/VPATEL007/e-commerce/assets/92792941/98c239e5-684d-45d6-b869-f5a7c34c3b93)
+![8](https://github.com/VPATEL007/e-commerce/assets/92792941/ab466eae-3f17-43ab-b66f-80f34644392a)
